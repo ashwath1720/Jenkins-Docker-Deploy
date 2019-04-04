@@ -1,4 +1,4 @@
-Pipeline {
+pipeline {
 	/* A Declartive Pipeline */
 	agent any
 	
